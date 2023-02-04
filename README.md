@@ -1,1 +1,3 @@
-# devops
+# devops playground
+
+>Learning DevOps
